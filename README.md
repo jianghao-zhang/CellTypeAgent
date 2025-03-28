@@ -23,7 +23,8 @@ pip install -r requirements.txt
 3. Set your OpenAI/Anthropic/DeepSeek API keys configuration in the 'CellTypeAgent/APIs' folder
 
 4. Prepare the data
-- The datasets and the gene expression data used in the paper are stored in the 'CellTypeAgent/data' folder.
+- The datasets used in the paper are stored in the 'CellTypeAgent/data' folder.
+- Please download the gene expression data used in this paper from [Google Drive](https://drive.google.com/drive/folders/1mC6r5Nu1JimBWSOanOdGDT2QolYdhF_S?usp=sharing) and place it in the 'CellTypeAgent/data/CELLxGENE' directory.
 - Please check the [README.md](CellTypeAgent/data/README.md) in the 'CellTypeAgent/data' folder for more information.
 
 
